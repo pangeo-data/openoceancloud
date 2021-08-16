@@ -14,7 +14,7 @@ title = "Open Ocean Cloud"
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Ryan Abernathey, Chelle Gentemann"
+    copyright = "© 2021 Ryan Abernathey, Chelle Gentemann"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Open Data and Computing Infrastructure for the UN Ocean Decade"
