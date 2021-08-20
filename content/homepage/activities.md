@@ -11,10 +11,14 @@ and associated national actions.
 
 ### Ocean Decade Laboratories: A Predicted Ocean (15 - 17 Sept, 2021)
 
-The Ocean Decade Laboratories are a creative, interactive platform to support action for the Ocean Decade around the globe.
-
+The[UN Ocean Decade Laboratories](https://www.oceandecade-conference.com/en/ocean-decade-laboratories.html) are a creative, interactive platform to support action for the Ocean Decade around the globe.
 OpenOceanCloud will take parted in the [Predicted Ocean Laboratory](https://www.oceandecade-conference.com/en/a-predicted-ocean.html)
-15 - 17 Sept, 2021. Stay tuned for more details.
+15 - 17 Sept, 2021.
+
+Our event is an asynchronous global sprint, leveraging technology to bring together a distributed international community. We will work together to identify the organizational, technical and community activities needed to advance OpenOceanCloud. The outcome of this brainstorming session will be published as a community whitepaper.
+
+
+<a class="btn" href="/whitepaper">Participate in the OpenOceanCloud Laboratory</a>
 
 ### OceanDecade: U.S. Launch Meeting (Feb 2021)
 
