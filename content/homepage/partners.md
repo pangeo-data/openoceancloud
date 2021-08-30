@@ -18,6 +18,6 @@ seeks fundamental knowledge about the origin, evolution, and future of the natur
 LDEO scientists study the planet from its deepest interior to the outer reaches of its atmosphere, on every continent and in every ocean, providing a rational basis for the difficult choices facing humanity.
 LDEO is home to OpenOceanCloud co-leader Ryan Abernathey.
 
-[![MGC LOGO](https://images.squarespace-cdn.com/content/v1/52ffa419e4b05b374032e6d9/1577498408185-9LMHCVUJMNL2UBCIUOB9/Metadata+Game+Changers+Logo-Light.png?format=1500w)](https://metadatagamechangers.com/)
+[![MGC LOGO](https://images.squarespace-cdn.com/content/v1/52ffa419e4b05b374032e6d9/1577498408185-9LMHCVUJMNL2UBCIUOB9/Metadata+Game+Changers+Logo-Light.png?format=150w)](https://metadatagamechangers.com/)
 
 [Metadata Game Changers, LLC ](https://metadatagamechangers.com/)is a small, data management consultancy focused on helping research repositories build and sustain connections with the researcher community. MGC supports a number of projects including [Openscapes](https://www.openscapes.org/). Metadata Game Changers is home to OpenOceanCloud collaborator, Erin Robinson.  
