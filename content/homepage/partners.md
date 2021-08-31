@@ -22,6 +22,6 @@ LDEO is home to OpenOceanCloud co-leader Ryan Abernathey.
 
 [Metadata Game Changers, LLC ](https://metadatagamechangers.com/)is a small, data management consultancy focused on helping research repositories build and sustain connections with the researcher community. MGC supports a number of projects including [Openscapes](https://www.openscapes.org/). Metadata Game Changers is home to OpenOceanCloud collaborator, Erin Robinson.
 
-[![COL LOGO](https://oceanleadership.org/wp-content/uploads/2017/12/COL_LogoFull-Color200pxw.png)](https://oceanleadership.org/)
+[![COL LOGO](/COL_LogoFull-Color200pxw.png)](https://oceanleadership.org/)
 
 The [Consortium for Ocean Leadership](https://oceanleadership.org/) is a consortium of the leading ocean science and technology institutions from academia, aquaria, and industry. Based in Washington, D.C., COL advances ocean research, innovation, education, and sound policy. COL is home to OpenOceanCloud collaborators, Andrea McCurdy and Leslie Smith.
