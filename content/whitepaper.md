@@ -11,10 +11,24 @@ This activity will help answer the following question:
 **What are the organizational, technical and community activities needed to advance the OpenOceanCloud?**
 
 How to participate:
-1. Join the GatherTown community (link coming soon)
+1. Attend Our Virtual Community Brainstorm Session
 1. Watch the video
 1. Read the questions
 1. Submit your ideas
+
+---
+
+### Virtual Community Brainstorm Session - Sept. 15-17
+
+Join the global discussion to define the future of open-source cyberinfrastructure for ocean science through this 44-hour open, community brainstorming session.
+
+This is not your average meeting! This event is an asynchronous global sprint, leveraging technology to bring together a distributed international community. We looking forward to working together with all of you to identify the organizational, technical and community activities needed to advance OpenOceanCloud. The outcome of this brainstorming session will be published as a community whitepaper.
+
+Login to GatherTown (link coming soon) at any point during the 44-hour event (15 Sepember, 00:00 pm CEST to 17 September, 08:00 pm CEST) to contribute to the white paper and see what other people have been working on. Moderators will be stationed in the discussion rooms throughout the event.
+
+We welcome anyone and everyone interested in the future of ocean data infrastructure: researchers, industry professionals, government agency reps, environmental justice groups, and indigenous communities.
+
+This brainstorming session is one of the Satellite Activities as part of the broader “A Predicted Ocean” UN Ocean Decade Laboratory event.
 
 ---
 
