@@ -11,6 +11,7 @@ This activity will help answer the following question:
 **What are the organizational, technical and community activities needed to advance the OpenOceanCloud?**
 
 How to participate:
+1. [Register for event](https://docs.google.com/forms/d/e/1FAIpQLSeU_T77pH_3sveGkCAsPw9VLhQremEM4QAhPf70GXBuEGvpFQ)
 1. Attend Our Virtual Community Brainstorm Session
 1. Watch the video
 1. Read the questions
