@@ -12,10 +12,12 @@ This activity will help answer the following question:
 
 How to participate:
 1. [Register for event](https://forms.gle/kevwh91tivs782E68)
-1. Attend Our Virtual Community Brainstorm Session
-1. Watch the video
-1. Read the questions
-1. Submit your ideas
+1. Watch the [overview video](https://vimeo.com/508434363) if you are new to OpenOceanCloud
+1. Read the questions below
+1. Attend Our Virtual Community Brainstorm Session in [GatherTown](https://gather.town/app/uuKDHprsTJcgUsa4/OceanCloud)
+   16 September, 12:00 am CEST - 17 September, 08:00 pm CEST
+   (Password is shared after registration.)
+1. Contribute your ideas to the collaborative document. (Document details will be shared in GatherTown)
 
 ---
 
