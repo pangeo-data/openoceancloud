@@ -21,17 +21,15 @@ How to participate:
 
 ---
 
-### Virtual Community Brainstorm Session - Sept. 15-17
+### Virtual Community Brainstorm Session - Sept. 16-17
 
 Join the global discussion to define the future of open-source cyberinfrastructure for ocean science through this 44-hour open, community brainstorming session.
 
 This is not your average meeting! This event is an asynchronous global sprint, leveraging technology to bring together a distributed international community. We looking forward to working together with all of you to identify the organizational, technical and community activities needed to advance OpenOceanCloud. The outcome of this brainstorming session will be published as a community whitepaper.
 
-[Register for event](https://forms.gle/kevwh91tivs782E68) and you will be sent information on how to join our Gather.Town meeting. Go to Gather.Town at any point during the 44-hour event (16 September, 12:00 am CEST [midnight European time] to 17 September, 08:00 pm CEST) to contribute to the white paper and see what other people have been working on. Moderators will be stationed in the discussion rooms throughout the event.
+[Register for event](https://forms.gle/kevwh91tivs782E68) and you will be sent information on how to join our Gather.Town meeting. Go to [GatherTown](https://gather.town/app/uuKDHprsTJcgUsa4/OceanCloud) at any point during the 44-hour event (16 September, 12:00 am CEST [midnight European time] to 17 September, 08:00 pm CEST) to contribute to the white paper and see what other people have been working on. Moderators will be stationed in the discussion rooms throughout the event.
 
 We welcome anyone and everyone interested in the future of ocean data infrastructure: researchers, industry professionals, government agency reps, environmental justice groups, and indigenous communities.
-
-This brainstorming session is one of the Satellite Activities as part of the broader “A Predicted Ocean” UN Ocean Decade Laboratory event.
 
 ---
 
@@ -50,8 +48,7 @@ If you're new to the OpenOceanCloud community, this 8 minute video provides a qu
 ### The WhitePaper Process
 
 We have three themes, with specific sub questions where we are seeking input.
-If you are interested in participating,  first watch the [intro video].
-Then read through the questions and submit one or more response paragraphs (link below).
+A collaborative document for you to provide your reponses will be shared with registered participants via GatherTown.
 
 #### Theme 1: Co-Development of OpenOceanCloud Technology and Infrastructure
 
@@ -69,3 +66,6 @@ How can OpenOceanCloud empower scientists, citizens, local communities, and envi
 #### Theme 3: (Amplification Activities) How can OpenOceanCloud support and amplify other U.N. Ocean Decade Activities?
 1. How do we connect and build bridges with existing efforts?
 1. Who are early adopter communities that we could work with early on?
+
+After the sprint is complete, the OpenOceanCloud leadership team will refine and edit the responses into a coherent document.
+All contributors will be invited as co-authors and invited to review, edit, and approve the final document before it is published.
