@@ -25,7 +25,7 @@ Join the global discussion to define the future of open-source cyberinfrastructu
 
 This is not your average meeting! This event is an asynchronous global sprint, leveraging technology to bring together a distributed international community. We looking forward to working together with all of you to identify the organizational, technical and community activities needed to advance OpenOceanCloud. The outcome of this brainstorming session will be published as a community whitepaper.
 
-Login to GatherTown (link coming soon) at any point during the 44-hour event (15 Sepember, 00:00 pm CEST to 17 September, 08:00 pm CEST) to contribute to the white paper and see what other people have been working on. Moderators will be stationed in the discussion rooms throughout the event.
+Login to GatherTown (link coming soon) at any point during the 44-hour event (16 Sepember, 12:00 am CEST [midnight European time] to 17 September, 08:00 pm CEST) to contribute to the white paper and see what other people have been working on. Moderators will be stationed in the discussion rooms throughout the event.
 
 We welcome anyone and everyone interested in the future of ocean data infrastructure: researchers, industry professionals, government agency reps, environmental justice groups, and indigenous communities.
 
