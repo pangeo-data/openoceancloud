@@ -14,5 +14,5 @@ To meet this challenge, we need an international collaboration to accelerate the
 This partnership between universities, research institutes, and industry will leverage open data, open-source software, and cloud computing to build a collaboration platform that can be used by students and researchers across the world.
 Currently, data intensive ocean research is only accessible to privileged institutions with the resources for high performance computing and data storage.
 OpenOceanCloud will break down this barrier, providing a research platform to the thousands of potential oceanographers who lack such resources.
-Access to vast data sets and powerful computing environments can help remove the barriers related to low-bandwidth internet, intermittent power, and limited-cyberinfrastructure.
+Access to vast data sets and powerful computing environments can help remove the barriers related to low-bandwidth internet, intermittent power, and limited cyber infrastructure.
 With this infrastructure, anyone can do science, anywhere, and this empowers communities that have been historically excluded from full participation in oceanography.

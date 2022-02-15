@@ -7,7 +7,7 @@ This is the source code for the website <http://openocean.cloud>
 
 ## How it works
 
-This is a Hugo website. I follwed [these instructions](https://github.com/peaceiris/actions-gh-pages#getting-started) to set it up.
+This is a Hugo website. I followed [these instructions](https://github.com/peaceiris/actions-gh-pages#getting-started) to set it up.
 It uses the [Hugo Scroll](https://github.com/janraasch/hugo-scroll) theme.
 The page is deployed using GitHub actions following [these instructions](https://github.com/peaceiris/actions-gh-pages#getting-started)
 

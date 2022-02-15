@@ -6,7 +6,7 @@ header_menu: true
 
 [![Pangeo Logo](https://github.com/pangeo-data/branding/raw/master/logo/v_small_pangeo_logo.png)](http://pangeo.io/)
 
-[Pangeo](http://pangeo.io/) is a open, distributed, international community of scientists and software developers.
+[Pangeo](http://pangeo.io/) is an open, distributed, international community of scientists and software developers.
 The goal of Pangeo is to catalyze the development of innovative open-source software and infrastructure for
 big-data geoscience.
 The OpenOceanCloud concept emerged from discussions within the Pangeo community.
